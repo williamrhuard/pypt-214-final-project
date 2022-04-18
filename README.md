@@ -1,3 +1,8 @@
+# Tasks
+Perform data analysis exploring use patterns of the typical robot user per country. Include relevant visualizations where appropriate.
+1. Are there geographic differences in robot usage?
+2. Address any possible effects of data loss on your findings.
+
 # Data
 1. mission_data.csv
 This table contains details of cleaning missions for a sample of 10,000 wifi-connected robots
@@ -17,7 +22,4 @@ The columns are defined as follows:
  * **country_cd**: 2-letter ISO country code
  * **timezone**: robot's timezone (from IANA/Olson database)
 
-# Tasks
-Perform data analysis exploring use patterns of the typical robot user per country. Include relevant visualizations where appropriate.
-1. Are there geographic differences in robot usage?
-2. Address any possible effects of data loss on your findings.
+
